@@ -1,27 +1,25 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at Cal State Fullerton (http://www.fullerton.edu/) and my major is computer science.
+This is my home page! My name is **Christopher Vasquez** and I am a student at [Cal State Fullerton](http://www.fullerton.edu/), majoring in **Computer Science**.
+
+You can contact me at [cvasquez2006@csu.fullerton.edu](mailto:cvasquez2006@csu.fullerton.edu).
+
+---
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ChristopherNVasquez.
+My GitHub page is [https://github.com/ChristopherNVasquez](https://github.com/ChristopherNVasquez).
 
-### CPSC 120
+### CPSC 120 Projects
 
-*Lab 1
+* **Lab 1 - Hello World**
 
-Lab 1 part 1 was one of my favorites because the hello world program is somewhat famous.
-Its the statement that got my dad into computer science. And learning the
-git commands was also a fun bit.
+Lab 1 was one of my favorites because it was the first time I wrote and ran a real program. I learned how to set up a basic C++ project, how to use `cout` to print to the console, and how to compile and execute code through the terminal. It gave me the confidence to know I could make programs from scratch.
 
-*Lab 2
+* **Lab 9 - File Input and Output**
 
-Lab 2 was also funny because it was a mad libs game.
-Inputting the words and seeing what comes out was a fun bit to tinker with.
-Although I blank on which part it was specifically.
+Lab 9 helped me understand how to read from and write to files in C++. I learned how to open file streams, check for errors, and process text line by line. It was my first experience working with external data and thinking about how programs interact with the real world.
 
-*Lab 3
+* **Lab 12 - Animated Gradient**
 
-Lab 3 was also fun to see the BMI of women and men.
-It was the lab I met my friend joseph in so that was fun.
-Also when I got the full gist of what pair programming was about.
+Lab 12 was awesome because it combined math, color, and animation together. I learned how to use sine functions to create smooth visual transitions and how each pixel can be controlled through programming. Watching the gradient animate was satisfying and made programming feel creative and artistic.
